@@ -11,3 +11,6 @@ Esta aplicação apenas funciona num Universo para evitar abusos por parte dos u
 AVISO
 O uso desta aplicação é pode ir contra as regras da GameForge, como descrito no ponto 6 das mesmas.
 https://pt.ogame.gameforge.com/ajax/main/rules
+
+
+Para correr basta encontrar os artefatos.
